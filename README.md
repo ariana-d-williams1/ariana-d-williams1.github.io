@@ -21,11 +21,11 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-[Link](https://github.com/ariana-d-williams1/Five-destinations.git)
+##Five Destiantions 
+In this project I created a runable jar file for a made up travel agency. The user has the ability to look through photos destinations, get more information about the destinations, and fill out an inquiry sheet to get more information.
+[Five Destinations](https://github.com/ariana-d-williams1/Five-destinations.git).
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
