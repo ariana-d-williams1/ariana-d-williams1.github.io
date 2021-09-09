@@ -1,8 +1,6 @@
 ## Welcome to Ariana Williams page.
 
-You can use the [editor on GitHub](https://github.com/ariana-d-williams1/ariana-d-williams1.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am finishing my bachelor’s degree in computer science. I am displaying some of the work that I have completed throughout my time at Southern New Hampshire University.
 
 ### Markdown
 
