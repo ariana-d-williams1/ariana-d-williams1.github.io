@@ -4,10 +4,10 @@ I am finishing my bachelor’s degree in computer science. I am displaying some 
 
 # Header 1
 
-## **Code Review*
+## Code Review
 I have created an initial code review to review the original state of my artifacts. If you are interested in my code review you can find it here. [code review]
 
-## **Five Destiantions* 
+## ** Five Destiantions* 
 In this project I created a runable jar file for a made up travel agency. The user has the ability to look through photos destinations, get more information about the destinations, and fill out an inquiry sheet to get more information.
 [Five Destinations jar file](https://github.com/ariana-d-williams1/ariana-d-williams1.github.io/blob/main/fiveDestinationsRun.jar).
 
