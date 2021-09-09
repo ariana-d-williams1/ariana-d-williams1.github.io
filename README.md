@@ -5,7 +5,7 @@ I am finishing my bachelor’s degree in computer science. I am displaying some 
 
 ## Five Destiantions 
 In this project I created a runable jar file for a made up travel agency. The user has the ability to look through photos destinations, get more information about the destinations, and fill out an inquiry sheet to get more information.
-[Five Destinations](https://github.com/ariana-d-williams1.github.io/blob/main/fiveDestinationsRun.jar).
+[Five Destinations](https://github.com/ariana-d-williams1/ariana-d-williams1.github.io/blob/main/fiveDestinationsRun.jar).
 
 Syntax highlighted code block
 
@@ -21,9 +21,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-##Five Destiantions 
-In this project I created a runable jar file for a made up travel agency. The user has the ability to look through photos destinations, get more information about the destinations, and fill out an inquiry sheet to get more information.
-[Five Destinations](https://github.com/ariana-d-williams1/Five-destinations.git).
+
 ```
 
 
