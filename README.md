@@ -22,10 +22,8 @@ In this project I imported data so that I could preform a hash function. In my o
 
 
 
-### Jekyll Themes
 
 
+##### Contact
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+email: ariana.d.williams1@gmail.com
