@@ -15,7 +15,7 @@ In this project I created a runable jar file for a made up travel agency. The us
 
 ## Hash Tables
 
-In this project I imported data so that I could preform a hash function. In my original hash function the search function time ranged from 0.0013 seconds to 0.006 seconds. After my enhancements the search function time range is 0.006 seconds to 0.005 seconds. If you would like to view this program you can find it here [Hash Table](Https://github.com/ariana-d-williams1/ariana-d-williams1.github.io/tree/ariana-d-williams1-hashtable/src).
+In this project I imported data so that I could preform a hash function. In my original hash function the search function time ranged from 0.0013 seconds to 0.006 seconds. After my enhancements the search function time range is 0.006 seconds to 0.005 seconds. If you would like to view this program you can find it here [Hash Table](https://github.com/ariana-d-williams1/ariana-d-williams1.github.io/tree/ariana-d-williams1-hashtable/src).
 
 ## Database
 
