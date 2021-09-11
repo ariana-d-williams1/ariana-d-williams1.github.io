@@ -19,9 +19,7 @@ In this project I imported data so that I could preform a hash function. In my o
 
 ## Database
 
-
-
-
+In this project I restructured a database document that I created. More importantly, I used JMP a data mining tool to make data analysis. JMP is an important tool that many companies can use to help them make pertinent decisions for the company. To see more please click here [Database] (https://github.com/ariana-d-williams1/ariana-d-williams1.github.io/blob/ariana-d-williams1-hashtable/databases.docx).
 
 
 ##### Contact
