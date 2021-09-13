@@ -15,7 +15,7 @@ To best show case all the above skills I chose three artifacts that focused spec
 
 ## Code Review
 
-I have created an initial code review to review the original state of my artifacts. If you are interested in my code review you can find it here. [code review](https://github.com/ariana-d-williams1/ariana-d-williams1.github.io/blob/main/initialcodereview.mp4).
+I have created an initial code review to review the original state of my artifacts. If you are interested in my code review you can find it here. [code review](https://github.com/ariana-d-williams1/ariana-d-williams1.github.io/blob/main/codeReview.mp4).
 
 ## Five Destiantions
 
